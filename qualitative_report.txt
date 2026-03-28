@@ -1,0 +1,314 @@
+================================================================================
+QUALITATIVE ASSESSMENT REPORT
+================================================================================
+Evaluation Date: 2026-03-28 10:56:15
+Total Questions Evaluated: 14
+
+
+============================================================
+QUESTION 1: Who proposed the concept of quantum computing in the early 1980s and why?
+
+EXPECTED ANSWER:
+Richard Feynman proposed quantum computing in the early 1980s because classical computers would struggle to simulate quantum mechanical systems efficiently....
+
+GENERATED ANSWER:
+Richard Feynman
+
+METRICS SUMMARY:
+  - Semantic Similarity: 0.553
+  - Keyword Overlap: 0.133
+  - Factual Accuracy: 0.000
+  - Confidence: 0.565
+
+----------------------------------------
+QUALITATIVE SCORING RUBRIC (1-5):
+  - Coherence (1-5): ___
+  - Completeness (1-5): ___
+  - Factual Correctness (1-5): ___
+  - Notes: _________________
+
+============================================================
+QUESTION 2: What is Shor's algorithm and why is it significant?
+
+EXPECTED ANSWER:
+Shor's algorithm, developed in 1994, factors large integers exponentially faster than classical algorithms, threatening RSA encryption systems....
+
+GENERATED ANSWER:
+This algorithm demonstrated that a quantum computer could factor large integers exponentially faster than classical computers
+
+METRICS SUMMARY:
+  - Semantic Similarity: 0.683
+  - Keyword Overlap: 0.467
+  - Factual Accuracy: 0.000
+  - Confidence: 0.442
+
+----------------------------------------
+QUALITATIVE SCORING RUBRIC (1-5):
+  - Coherence (1-5): ___
+  - Completeness (1-5): ___
+  - Factual Correctness (1-5): ___
+  - Notes: _________________
+
+============================================================
+QUESTION 3: What are the main quantum hardware platforms for building quantum computers?
+
+EXPECTED ANSWER:
+The main quantum hardware platforms include superconducting qubits, trapped ion qubits, photonic quantum computing, topological qubits, and neutral atom qubits....
+
+GENERATED ANSWER:
+quantum compilers, optimizers, and debugging tools
+
+METRICS SUMMARY:
+  - Semantic Similarity: 0.532
+  - Keyword Overlap: 0.071
+  - Factual Accuracy: 0.000
+  - Confidence: 0.557
+
+----------------------------------------
+QUALITATIVE SCORING RUBRIC (1-5):
+  - Coherence (1-5): ___
+  - Completeness (1-5): ___
+  - Factual Correctness (1-5): ___
+  - Notes: _________________
+
+============================================================
+QUESTION 4: What is superposition and how does it benefit quantum computing?
+
+EXPECTED ANSWER:
+Superposition allows qubits to exist in multiple states simultaneously, enabling quantum computers to process many possibilities in parallel....
+
+GENERATED ANSWER:
+A principle allowing qubits to exist in multiple states simultaneously until measured
+
+METRICS SUMMARY:
+  - Semantic Similarity: 0.677
+  - Keyword Overlap: 0.357
+  - Factual Accuracy: 0.000
+  - Confidence: 0.571
+
+----------------------------------------
+QUALITATIVE SCORING RUBRIC (1-5):
+  - Coherence (1-5): ___
+  - Completeness (1-5): ___
+  - Factual Correctness (1-5): ___
+  - Notes: _________________
+
+============================================================
+QUESTION 5: What are the primary applications of quantum computing in the pharmaceutical industry?
+
+EXPECTED ANSWER:
+Quantum computing applications in pharmaceuticals include drug discovery through molecular simulation, modeling electron configurations, and identifying effective drug candidates faster than classical...
+
+GENERATED ANSWER:
+drugs discovery
+
+METRICS SUMMARY:
+  - Semantic Similarity: 0.490
+  - Keyword Overlap: 0.050
+  - Factual Accuracy: 0.000
+  - Confidence: 0.548
+
+----------------------------------------
+QUALITATIVE SCORING RUBRIC (1-5):
+  - Coherence (1-5): ___
+  - Completeness (1-5): ___
+  - Factual Correctness (1-5): ___
+  - Notes: _________________
+
+============================================================
+QUESTION 6: What is decoherence and why is it a challenge for quantum computing?
+
+EXPECTED ANSWER:
+Decoherence is the process where qubits lose quantum properties through environmental interaction, causing errors and limiting the duration quantum information can be maintained....
+
+GENERATED ANSWER:
+The process by which quantum systems lose coherence through interaction with the environment
+
+METRICS SUMMARY:
+  - Semantic Similarity: 0.705
+  - Keyword Overlap: 0.294
+  - Factual Accuracy: 0.000
+  - Confidence: 0.540
+
+----------------------------------------
+QUALITATIVE SCORING RUBRIC (1-5):
+  - Coherence (1-5): ___
+  - Completeness (1-5): ___
+  - Factual Correctness (1-5): ___
+  - Notes: _________________
+
+============================================================
+QUESTION 7: What milestone did Google achieve with their Sycamore processor in 2019?
+
+EXPECTED ANSWER:
+Google claimed quantum supremacy with Sycamore in 2019, demonstrating a calculation that would take 200 seconds on quantum computer but 10,000 years on classical supercomputer....
+
+GENERATED ANSWER:
+200 seconds
+
+METRICS SUMMARY:
+  - Semantic Similarity: 0.265
+  - Keyword Overlap: 0.067
+  - Factual Accuracy: 0.000
+  - Confidence: 0.263
+
+----------------------------------------
+QUALITATIVE SCORING RUBRIC (1-5):
+  - Coherence (1-5): ___
+  - Completeness (1-5): ___
+  - Factual Correctness (1-5): ___
+  - Notes: _________________
+
+============================================================
+QUESTION 8: How does entanglement contribute to quantum computing capabilities?
+
+EXPECTED ANSWER:
+Entanglement creates quantum correlations between qubits where measuring one affects its entangled partner, enabling powerful error correction and exponential speedups in certain algorithms....
+
+GENERATED ANSWER:
+enables powerful quantum error correction
+
+METRICS SUMMARY:
+  - Semantic Similarity: 0.627
+  - Keyword Overlap: 0.190
+  - Factual Accuracy: 0.000
+  - Confidence: 0.550
+
+----------------------------------------
+QUALITATIVE SCORING RUBRIC (1-5):
+  - Coherence (1-5): ___
+  - Completeness (1-5): ___
+  - Factual Correctness (1-5): ___
+  - Notes: _________________
+
+============================================================
+QUESTION 9: What is the difference between quantum supremacy and quantum advantage?
+
+EXPECTED ANSWER:
+Quantum supremacy demonstrates quantum computers can solve any problem infeasible for classical computers, while quantum advantage shows they solve practically relevant problems faster or more efficie...
+
+GENERATED ANSWER:
+Quantum advantage represents a more meaningful milestone than quantum supremacy
+
+METRICS SUMMARY:
+  - Semantic Similarity: 0.811
+  - Keyword Overlap: 0.250
+  - Factual Accuracy: 0.000
+  - Confidence: 0.405
+
+----------------------------------------
+QUALITATIVE SCORING RUBRIC (1-5):
+  - Coherence (1-5): ___
+  - Completeness (1-5): ___
+  - Factual Correctness (1-5): ___
+  - Notes: _________________
+
+============================================================
+QUESTION 10: What are the main challenges facing practical quantum computing?
+
+EXPECTED ANSWER:
+Main challenges include decoherence, error correction requiring many physical qubits per logical qubit, scalability of control systems, gate fidelity requirements, readout errors, manufacturing consis...
+
+GENERATED ANSWER:
+quantum computers pose significant threats to current security infrastructure
+
+METRICS SUMMARY:
+  - Semantic Similarity: 0.610
+  - Keyword Overlap: 0.000
+  - Factual Accuracy: 0.000
+  - Confidence: 0.549
+
+----------------------------------------
+QUALITATIVE SCORING RUBRIC (1-5):
+  - Coherence (1-5): ___
+  - Completeness (1-5): ___
+  - Factual Correctness (1-5): ___
+  - Notes: _________________
+
+============================================================
+QUESTION 11: What is Grover's algorithm and what speedup does it provide?
+
+EXPECTED ANSWER:
+Grover's algorithm provides quadratic speedup for unstructured search, requiring O(√N) operations compared to classical O(N) operations for N items....
+
+GENERATED ANSWER:
+a quadratic speedup for unstructured search problems
+
+METRICS SUMMARY:
+  - Semantic Similarity: 0.585
+  - Keyword Overlap: 0.333
+  - Factual Accuracy: 0.000
+  - Confidence: 0.505
+
+----------------------------------------
+QUALITATIVE SCORING RUBRIC (1-5):
+  - Coherence (1-5): ___
+  - Completeness (1-5): ___
+  - Factual Correctness (1-5): ___
+  - Notes: _________________
+
+============================================================
+QUESTION 12: How might quantum computing impact cryptography?
+
+EXPECTED ANSWER:
+Quantum computing threatens RSA encryption through Shor's algorithm, motivating post-quantum cryptography development, while enabling quantum key distribution for theoretically unbreakable encryption....
+
+GENERATED ANSWER:
+Threats to current security infrastructure
+
+METRICS SUMMARY:
+  - Semantic Similarity: 0.183
+  - Keyword Overlap: 0.000
+  - Factual Accuracy: 0.000
+  - Confidence: 0.548
+
+----------------------------------------
+QUALITATIVE SCORING RUBRIC (1-5):
+  - Coherence (1-5): ___
+  - Completeness (1-5): ___
+  - Factual Correctness (1-5): ___
+  - Notes: _________________
+
+============================================================
+QUESTION 13: What are the projected phases of quantum computing development?
+
+EXPECTED ANSWER:
+Near-term (2024-2030) focuses on noisy intermediate-scale quantum systems, medium-term (2030-2040) may see fault-tolerant quantum computing, and beyond 2040 large-scale fault-tolerant systems could re...
+
+GENERATED ANSWER:
+Near-term future, spanning 2024 to 2030
+
+METRICS SUMMARY:
+  - Semantic Similarity: 0.575
+  - Keyword Overlap: 0.100
+  - Factual Accuracy: 0.000
+  - Confidence: 0.499
+
+----------------------------------------
+QUALITATIVE SCORING RUBRIC (1-5):
+  - Coherence (1-5): ___
+  - Completeness (1-5): ___
+  - Factual Correctness (1-5): ___
+  - Notes: _________________
+
+============================================================
+QUESTION 14: What is coherence time and how does it vary across platforms?
+
+EXPECTED ANSWER:
+Coherence time is how long qubits maintain quantum states before decoherence. Superconducting qubits achieve microseconds to milliseconds, while trapped ions achieve seconds to minutes....
+
+GENERATED ANSWER:
+The duration a qubit maintains its quantum state before decoherence occurs.
+
+METRICS SUMMARY:
+  - Semantic Similarity: 0.742
+  - Keyword Overlap: 0.158
+  - Factual Accuracy: 0.000
+  - Confidence: 0.247
+
+----------------------------------------
+QUALITATIVE SCORING RUBRIC (1-5):
+  - Coherence (1-5): ___
+  - Completeness (1-5): ___
+  - Factual Correctness (1-5): ___
+  - Notes: _________________
