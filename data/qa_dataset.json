@@ -1,0 +1,74 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "Who proposed the concept of quantum computing in the early 1980s and why?",
+      "expected_answer": "Richard Feynman proposed quantum computing in the early 1980s because classical computers would struggle to simulate quantum mechanical systems efficiently."
+    },
+    {
+      "id": 2,
+      "question": "What is Shor's algorithm and why is it significant?",
+      "expected_answer": "Shor's algorithm, developed in 1994, factors large integers exponentially faster than classical algorithms, threatening RSA encryption systems."
+    },
+    {
+      "id": 3,
+      "question": "What are the main quantum hardware platforms for building quantum computers?",
+      "expected_answer": "The main quantum hardware platforms include superconducting qubits, trapped ion qubits, photonic quantum computing, topological qubits, and neutral atom qubits."
+    },
+    {
+      "id": 4,
+      "question": "What is superposition and how does it benefit quantum computing?",
+      "expected_answer": "Superposition allows qubits to exist in multiple states simultaneously, enabling quantum computers to process many possibilities in parallel."
+    },
+    {
+      "id": 5,
+      "question": "What are the primary applications of quantum computing in the pharmaceutical industry?",
+      "expected_answer": "Quantum computing applications in pharmaceuticals include drug discovery through molecular simulation, modeling electron configurations, and identifying effective drug candidates faster than classical methods."
+    },
+    {
+      "id": 6,
+      "question": "What is decoherence and why is it a challenge for quantum computing?",
+      "expected_answer": "Decoherence is the process where qubits lose quantum properties through environmental interaction, causing errors and limiting the duration quantum information can be maintained."
+    },
+    {
+      "id": 7,
+      "question": "What milestone did Google achieve with their Sycamore processor in 2019?",
+      "expected_answer": "Google claimed quantum supremacy with Sycamore in 2019, demonstrating a calculation that would take 200 seconds on quantum computer but 10,000 years on classical supercomputer."
+    },
+    {
+      "id": 8,
+      "question": "How does entanglement contribute to quantum computing capabilities?",
+      "expected_answer": "Entanglement creates quantum correlations between qubits where measuring one affects its entangled partner, enabling powerful error correction and exponential speedups in certain algorithms."
+    },
+    {
+      "id": 9,
+      "question": "What is the difference between quantum supremacy and quantum advantage?",
+      "expected_answer": "Quantum supremacy demonstrates quantum computers can solve any problem infeasible for classical computers, while quantum advantage shows they solve practically relevant problems faster or more efficiently than classical computers."
+    },
+    {
+      "id": 10,
+      "question": "What are the main challenges facing practical quantum computing?",
+      "expected_answer": "Main challenges include decoherence, error correction requiring many physical qubits per logical qubit, scalability of control systems, gate fidelity requirements, readout errors, manufacturing consistency, and software development."
+    },
+    {
+      "id": 11,
+      "question": "What is Grover's algorithm and what speedup does it provide?",
+      "expected_answer": "Grover's algorithm provides quadratic speedup for unstructured search, requiring O(√N) operations compared to classical O(N) operations for N items."
+    },
+    {
+      "id": 12,
+      "question": "How might quantum computing impact cryptography?",
+      "expected_answer": "Quantum computing threatens RSA encryption through Shor's algorithm, motivating post-quantum cryptography development, while enabling quantum key distribution for theoretically unbreakable encryption."
+    },
+    {
+      "id": 13,
+      "question": "What are the projected phases of quantum computing development?",
+      "expected_answer": "Near-term (2024-2030) focuses on noisy intermediate-scale quantum systems, medium-term (2030-2040) may see fault-tolerant quantum computing, and beyond 2040 large-scale fault-tolerant systems could revolutionize multiple industries."
+    },
+    {
+      "id": 14,
+      "question": "What is coherence time and how does it vary across platforms?",
+      "expected_answer": "Coherence time is how long qubits maintain quantum states before decoherence. Superconducting qubits achieve microseconds to milliseconds, while trapped ions achieve seconds to minutes."
+    }
+  ]
+}

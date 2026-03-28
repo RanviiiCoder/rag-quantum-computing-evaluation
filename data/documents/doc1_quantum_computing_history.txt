@@ -1,0 +1,13 @@
+History of Quantum Computing
+
+The concept of quantum computing emerged in the early 1980s when physicist Richard Feynman proposed that classical computers would struggle to simulate quantum mechanical systems. Feynman suggested that a computer based on quantum principles could perform such simulations efficiently.
+
+In 1985, David Deutsch at the University of Oxford formalized the concept of a universal quantum computer. He described the quantum Turing machine, establishing the theoretical foundation for quantum computation. Deutsch also proposed the first quantum algorithm, though it demonstrated limited practical utility.
+
+The field gained significant momentum in 1994 when Peter Shor, working at AT&T Bell Laboratories, developed Shor's algorithm. This algorithm demonstrated that a quantum computer could factor large integers exponentially faster than classical computers. Shor's algorithm highlighted quantum computing's potential to break widely used cryptographic systems.
+
+In 1996, Lov Grover at Bell Labs invented Grover's search algorithm, providing a quadratic speedup for unstructured search problems. Unlike Shor's algorithm, Grover's algorithm has broader applicability across many computational problems.
+
+The first experimental demonstrations of quantum computing came in the late 1990s and early 2000s. Researchers at IBM, Stanford, and MIT built small quantum processors with 2 to 7 qubits using nuclear magnetic resonance technology. These early systems successfully demonstrated Shor's algorithm for factoring 15.
+
+By 2019, Google claimed quantum supremacy with their Sycamore processor, demonstrating that a quantum computer could perform a specific calculation in 200 seconds that would take a classical supercomputer approximately 10,000 years. This milestone represented a significant achievement in demonstrating quantum advantage, though its practical utility remained limited.

@@ -1,0 +1,17 @@
+Future of Quantum Computing
+
+The trajectory of quantum computing development suggests several phases of progress over the coming decades.
+
+The near-term future, spanning 2024 to 2030, will likely focus on noisy intermediate-scale quantum systems. These systems contain 50 to several hundred qubits with moderate error rates. Applications during this phase will focus on quantum simulation and hybrid quantum-classical algorithms like variational quantum eigensolvers and quantum approximate optimization algorithms. Demonstrating practical quantum advantage, where quantum computers solve useful problems faster or cheaper than classical alternatives, represents the primary goal of this phase.
+
+Several companies project achieving quantum advantage for specific applications by 2028 to 2030. Quantum simulation of chemical systems and materials science applications appear most promising for early quantum advantage demonstrations.
+
+The medium-term future, 2030 to 2040, may see the emergence of fault-tolerant quantum computing. Error-corrected logical qubits will enable longer algorithms with reliable results. During this phase, quantum computers may begin solving commercially valuable problems in drug discovery, materials development, and optimization. Estimates suggest fault-tolerant quantum computing requires approximately 1,000 to 10,000 logical qubits, equivalent to millions of physical qubits with current error correction overhead.
+
+Beyond 2040, large-scale fault-tolerant quantum computers with hundreds of thousands of logical qubits could revolutionize multiple industries. Breaking current cryptographic systems would require quantum computers with millions of physical qubits, likely available in this timeframe.
+
+Industry investment continues to accelerate. Governments worldwide have announced significant quantum initiatives. The United States National Quantum Initiative Act, the European Union Quantum Flagship, and Chinese quantum investments total billions of dollars in public funding. Private investment in quantum computing startups exceeded one billion dollars annually from 2020 to 2023.
+
+Quantum computing will likely complement rather than replace classical computing. Most computational workloads will remain on classical computers, with quantum computers solving specific problems where they offer exponential or quadratic advantages. Hybrid classical-quantum computing architectures will likely dominate practical applications.
+
+Workforce development remains critical. Estimates suggest tens of thousands of quantum computing professionals will be needed over the next decade. Universities worldwide are expanding quantum information science programs to meet this demand.

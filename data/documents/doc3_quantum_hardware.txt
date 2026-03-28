@@ -1,0 +1,15 @@
+Quantum Hardware Platforms
+
+Several physical platforms compete to build practical quantum computers, each with distinct advantages and challenges.
+
+Superconducting qubits represent the most advanced platform, used by Google, IBM, and Rigetti. These qubits consist of Josephson junctions formed by sandwiching an insulator between two superconductors. Superconducting qubits operate at millikelvin temperatures, near absolute zero, requiring dilution refrigerators. They offer relatively fast gate times, around 10 to 100 nanoseconds, but suffer from short coherence times, typically 10 to 100 microseconds.
+
+IBM has made significant progress with their transmon qubit design, achieving coherence times exceeding 100 microseconds. Their quantum processors now contain over 100 qubits, with the IBM Quantum System One and System Two platforms available through cloud access.
+
+Trapped ion qubits, developed by IonQ, Honeywell, and academic groups, use individual ions confined by electromagnetic fields. Laser pulses manipulate the ions' internal energy states to perform quantum operations. Trapped ion systems achieve longer coherence times than superconducting qubits, often exceeding several minutes, with very high gate fidelities. However, they operate with slower gate speeds, around 10 to 100 microseconds, and face scalability challenges due to the complexity of controlling many ions simultaneously.
+
+Photonic quantum computing uses photons as qubits, leveraging properties such as polarization or path to encode quantum information. Photons naturally operate at room temperature and maintain coherence over long distances, making them attractive for quantum communication networks. However, implementing reliable two-qubit gates between photons remains challenging due to weak photon-photon interactions.
+
+Topological qubits, pursued by Microsoft, represent a theoretical approach that could provide inherent error protection. These qubits would encode information in anyons, quasiparticles with exotic statistical properties. While promising for fault-tolerant quantum computing, topological qubits have not yet been experimentally demonstrated.
+
+Neutral atom qubits, developed by companies like ColdQuanta and academic groups, use laser-trapped neutral atoms as qubits. This platform offers excellent scalability and allows dynamic reconfiguration of qubit arrangements. Recent demonstrations have achieved arrays of hundreds of atoms with high coherence times.

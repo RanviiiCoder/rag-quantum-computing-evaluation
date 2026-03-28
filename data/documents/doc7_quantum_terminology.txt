@@ -1,0 +1,29 @@
+Essential Quantum Computing Terminology
+
+Understanding quantum computing requires familiarity with several key concepts and terms.
+
+Qubit: The fundamental unit of quantum information, analogous to a classical bit but capable of existing in superposition states. Qubits can be implemented using various physical systems including superconducting circuits, trapped ions, and photons.
+
+Superposition: A principle allowing qubits to exist in multiple states simultaneously until measured. Mathematically, a qubit in superposition is described by a linear combination of basis states: |ψ⟩ = α|0⟩ + β|1⟩, where α and β are complex amplitudes.
+
+Entanglement: A quantum correlation between qubits where measurement of one qubit instantaneously affects the state of its entangled partner. Entangled qubits cannot be described independently and exhibit stronger correlations than classically possible.
+
+Decoherence: The process by which quantum systems lose coherence through interaction with the environment. Decoherence causes errors in quantum computation and limits the duration quantum information can be maintained.
+
+Coherence Time: The duration a qubit maintains its quantum state before decoherence occurs. Common coherence times range from microseconds to milliseconds for superconducting qubits and seconds to minutes for trapped ion qubits.
+
+Quantum Gate: A unitary operation applied to one or more qubits, analogous to logic gates in classical computing. Common gates include Hadamard, Pauli-X, Pauli-Y, Pauli-Z, CNOT, and phase gates.
+
+Quantum Circuit: A sequence of quantum gates applied to qubits, often organized in time-ordered layers. Quantum circuits represent quantum algorithms in a form similar to classical circuit diagrams.
+
+Measurement: The process of extracting classical information from quantum states. Measurement collapses quantum superpositions to definite classical states with probabilities determined by the quantum state amplitudes.
+
+Quantum Supremacy: The demonstration that a quantum computer can perform a calculation that would be infeasible for classical supercomputers. Google's 2019 demonstration with the Sycamore processor represented the first claim of quantum supremacy.
+
+Quantum Advantage: The demonstration that a quantum computer solves a practically relevant problem faster or more efficiently than classical computers. Quantum advantage represents a more meaningful milestone than quantum supremacy.
+
+Quantum Volume: A hardware-agnostic metric developed by IBM to measure quantum computer performance. Quantum volume considers qubit count, gate fidelities, connectivity, and coherence times in a single benchmark.
+
+Error Correction: Techniques for protecting quantum information from errors caused by decoherence and operational imperfections. Quantum error correction encodes logical qubits across multiple physical qubits to detect and correct errors without collapsing quantum states.
+
+Fidelity: A measure of how accurately a quantum operation or state matches its intended target. Gate fidelity quantifies the accuracy of quantum gates, while state fidelity measures how closely a prepared state matches the desired state.
